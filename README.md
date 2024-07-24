@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there! My name is Jeremy! :wave::wave:
+- :mortar_board: I just finished the AppWorks school's coding bootcamp, and am trying to seek jobs oppturnity as a software developer.
+- 🌱 I’m currently trying to master the advanced aspect of JavaScript.
+- ⚡ Fun fact: I am a former physical therapist, so I might correct your posture when you are focusing on coding.
 
 <!--
 **ZhiHsuanPeng/ZhiHsuanPeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
