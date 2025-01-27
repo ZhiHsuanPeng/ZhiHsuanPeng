@@ -1,6 +1,6 @@
 ## Hi there! My name is Jeremy! :wave::wave:
-- :mortar_board: I just finished the AppWorks school's coding bootcamp, and am trying to seek jobs oppturnity as a software developer.
-- 🌱 I’m currently trying to master the advanced aspect of JavaScript.
+- :mortar_board: Backend develoepr from AppWorks School, currently working in 91APP.
+- 🌱 Love Typescript and Node.js, having a lot of fun writing it.
 - ⚡ Fun fact: I am a former physical therapist, so I might correct your posture when you are focusing on coding.
 
 <!--
