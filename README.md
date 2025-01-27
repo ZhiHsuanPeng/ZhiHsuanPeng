@@ -1,5 +1,5 @@
 ## Hi there! My name is Jeremy! :wave::wave:
-- :mortar_board: Backend develoepr from AppWorks School.
+- :mortar_board: Backend developer from AppWorks School.
 - 🌱 Love Typescript and Node.js, having a lot of fun writing it.
 - ⚡ Fun fact: I am a former physical therapist, so I might correct your posture when you are focusing on coding.
 
